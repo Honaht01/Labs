@@ -1,0 +1,22 @@
+[
+    {
+        "city": "Москва",
+        "discount_rate": 36
+    },
+    {
+        "city": "Санкт-Петербург",
+        "discount_rate": 37
+    },
+    {
+        "city": "Новосибирск",
+        "discount_rate": 28
+    },
+    {
+        "city": "Омск",
+        "discount_rate": 41
+    },
+    {
+        "city": "Рязань",
+        "discount_rate": 30
+    }
+]
